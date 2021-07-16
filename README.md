@@ -1,2 +1,2 @@
 ### SendFormDataViaEmailNoDb
-#### Hopefully a helpful project if you need ro configure a 3p email provider and relatively new to .NET Core 5.0.
+#### A good starting point f you've been tasked with configuring a 3p email provider, and need to brush up on asyncronous email communication; also, both projects use .NET Core 5.0 framework. 
