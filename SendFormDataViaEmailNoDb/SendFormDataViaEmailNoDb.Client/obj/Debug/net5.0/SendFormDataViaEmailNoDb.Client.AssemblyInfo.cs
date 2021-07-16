@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a8d70e90-3e36-4f95-98fa-2b0e36cea4f6")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SendFormDataViaEmailNoDb.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
